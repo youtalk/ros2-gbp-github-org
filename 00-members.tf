@@ -54,6 +54,7 @@ locals {
     local.gazebo_team,
     local.geographic_info_team,
     local.grbl_team,
+    local.grid_map_geo_team,
     local.grid_map_team,
     local.gscam_team,
     local.gstavrinos_team,
