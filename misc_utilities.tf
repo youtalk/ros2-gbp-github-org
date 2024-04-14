@@ -4,6 +4,8 @@ locals {
   ]
   misc_utilities_repositories = [
     "apriltag_detector-release",
+    "ffmpeg_image_transport-release",
+    "ffmpeg_image_transport_msgs-release",
     "ffmpeg_image_transport_tools-release",
   ]
 }
