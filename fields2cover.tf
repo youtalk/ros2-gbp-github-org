@@ -4,6 +4,7 @@ locals {
   ]
   fields2cover_repositories = [
     "fields2cover-release",
+    "ortools_vendor-release",
   ]
 }
 
