@@ -40,7 +40,6 @@ locals {
     local.event_camera_repositories,
     local.executive_smach_repositories,
     local.fastcdr_repositories,
-    local.ffmpeg_image_transport_repositories,
     local.fictionlab_repositories,
     local.fields2cover_repositories,
     local.filters_repositories,
