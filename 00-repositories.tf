@@ -74,6 +74,7 @@ locals {
     local.josh_newans_repositories,
     local.kinova_robotics_repositories,
     local.kobuki_base_repositories,
+    local.kuka_repositories,
     local.lanelet2_repositories,
     local.lgsvl_repositories,
     local.libcamera_repositories,
