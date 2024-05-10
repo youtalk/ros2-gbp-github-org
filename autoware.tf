@@ -11,6 +11,7 @@ locals {
     "autoware_auto_msgs-release",
     "autoware_cmake-release",
     "autoware_lanelet2_extension-release",
+    "autoware_internal_msgs-release",
     "autoware_msgs-release",
     "autoware_utils-release",
     "qpoases_vendor-release",
